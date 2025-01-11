@@ -474,7 +474,6 @@ public class TF_IDF extends javax.swing.JFrame {
         }
     }
     public void proses(){
-        txttampilkalimat.setText(null);
         statModel.setRowCount(0);
         kataModel.setRowCount(0);
         kalimatModel.setRowCount(0);
